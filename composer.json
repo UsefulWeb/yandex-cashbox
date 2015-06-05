@@ -1,0 +1,16 @@
+{
+  "name": "useful-web/yandex-cashbox",
+  "description": "Yandex cashbox implementation",
+  "type": "library",
+  "keywords": ["PHP", "Yandex", "money"],
+  "homepage": "https://github.com/UsefulWeb/yandex-cashbox",
+  "authors": [
+  {
+    "name": "Vladimir Yazykov",
+    "email": "neizerth@gmail.com"
+  }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
