@@ -4,6 +4,7 @@
   "type": "library",
   "keywords": ["PHP", "Yandex", "money"],
   "homepage": "https://github.com/UsefulWeb/yandex-cashbox",
+  "version" : 0.1,
   "authors": [
   {
     "name": "Vladimir Yazykov",
